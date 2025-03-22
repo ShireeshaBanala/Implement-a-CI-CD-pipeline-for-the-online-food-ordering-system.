@@ -1,1 +1,0 @@
-# Implement-a-CI-CD-pipeline-for-the-online-food-ordering-system.
